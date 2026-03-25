@@ -1,1 +1,0 @@
-- [x] Step 2: Add custom CSS to src/index.css for circular launcher
